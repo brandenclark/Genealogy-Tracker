@@ -1,0 +1,12 @@
+#former {
+  margin-top: 8vh;
+}
+
+form > p > input {
+  max-width: 30vw;
+}
+
+#title {
+  margin-top: 12vh;
+  text-align: center;
+}

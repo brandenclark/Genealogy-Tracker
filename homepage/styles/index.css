@@ -1,0 +1,52 @@
+body {
+  background-color: #5b89b2;
+}
+
+ul {
+  text-align: center;
+  background-color: white;
+  width: 30vw;
+  min-height: 30vh;
+  list-style: none;
+  margin-left: .75vw;
+  padding-left: 0;
+}
+
+li {
+  text-align: center;
+  font-size: 5em;
+}
+
+h1 {
+  font-size: 6.5em;
+  margin-top: 0;
+  margin-bottom: 2vh;
+  padding-top: 1vh;
+}
+
+.num {
+  padding-bottom: 1vh;
+}
+
+.content{
+  margin-top: 8vh;
+  align-content: center;
+}
+
+img {
+  max-width: 64.5vw;
+}
+
+h2 {
+
+  font-family: 'Raleway', sans-serif;
+  font-size: 2.5em;
+  color: white;
+  padding: .75vh 10px 0 10px;
+}
+
+h3 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 2em;
+  color: white;
+}
